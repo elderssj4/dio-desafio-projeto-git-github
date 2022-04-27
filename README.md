@@ -1,6 +1,6 @@
-# Desafio de projeto Git/GitHub - DIO 🤓
-Repositório criado para o desafio de projeto de Git/GitHub da DIO
-Nesse repositório serão arquivados os certificados dos cursos feitos durante o Bootcamp <strong>Carrefour Web Developer</strong>
+# Desafio de projeto Git/GitHub - DIO 🤓🖥️
+Repositório criado para o desafio de projeto de Git/GitHub da DIO.<br>
+Nesse repositório serão arquivados os certificados dos cursos feitos durante o Bootcamp <strong>Carrefour Web Developer</strong>.
 
 ### Certificados
 
