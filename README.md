@@ -1,2 +1,11 @@
-# dio-desafio-projeto-git-github
-Repositório criado para o desafio de projeto de Git/Github da DIO
+# Desafio de projeto Git/GitHub - DIO 🤓
+Repositório criado para o desafio de projeto de Git/GitHub da DIO
+Nesse repositório serão arquivados os certificados dos cursos feitos durante o Bootcamp <strong>Carrefour Web Developer</strong>
+
+### Certificados
+
+- Bootcamp Certificado de boas vindas
+- Pensamento Computacional
+- Lógica de Programação Essencial
+- Introdução ao Gite e ao GitHub 
+- Projetos Ágeis com SCRUM
