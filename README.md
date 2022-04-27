@@ -7,5 +7,5 @@ Nesse repositório serão arquivados os certificados dos cursos feitos durante o
 - Bootcamp Certificado de boas vindas
 - Pensamento Computacional
 - Lógica de Programação Essencial
-- Introdução ao Gite e ao GitHub 
+- Introdução ao Git e ao GitHub 
 - Projetos Ágeis com SCRUM
