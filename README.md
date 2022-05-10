@@ -16,3 +16,4 @@ Nesse repositório serão arquivados os certificados dos cursos feitos durante o
 - Recriando a interface do Netflix
 - Coleções
 - Javascript assíncrono
+- Debugging e Error Handling
