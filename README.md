@@ -14,3 +14,5 @@ Nesse repositório serão arquivados os certificados dos cursos feitos durante o
 - Introdução a criação de websites com HTML5 e CSS3
 - Construindo páginas para internet com Bootstrap
 - Recriando a interface do Netflix
+- Coleções
+- Javascript assíncrono
