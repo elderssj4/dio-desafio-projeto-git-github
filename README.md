@@ -15,5 +15,10 @@ Nesse repositório serão arquivados os certificados dos cursos feitos durante o
 - Construindo páginas para internet com Bootstrap
 - Recriando a interface do Netflix
 - Coleções
-- Javascript assíncrono
+- JavaScript assíncrono
 - Debugging e Error Handling
+- Orientação a objetos
+- Map, Filter e Reduce
+- Manipulando a DOM com JavaScript
+- Resolvendo desafios de código em JavaScript
+- Introdução ao React
